@@ -40,12 +40,7 @@
 
   @Component
   export default class Todo extends Vue {
-    private todos: any[] = [
-      {
-        id: 1,
-        text: 'Hello World?',
-      },
-    ];
+    private todos: any[] = [];
     private done: any[] = [];
     private todoText: string = '';
 
