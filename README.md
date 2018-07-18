@@ -7,3 +7,8 @@ Run http-server in dist/ directory
 ```
 http-server .
 ```
+
+If you haven't http-server:
+```
+npm i -g http-server
+```
