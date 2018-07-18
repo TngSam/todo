@@ -1,4 +1,5 @@
 # To-do
+<<<<<<< HEAD
 
 ## Simple to-do list based on Vue.js
 
@@ -21,3 +22,6 @@ npm run lint
 ```
 npm run test:unit
 ```
+=======
+Simple To-do list based on Vue.js
+>>>>>>> 6dc3527c70d2d10373519596ec1788cd154bc8f7
